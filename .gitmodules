@@ -1,0 +1,4 @@
+[submodule "codup/odoo-eam"]
+	path = codup/odoo-eam
+	url = git@github.com:codup/odoo-eam.git
+	branch = 12.0
