@@ -32,3 +32,8 @@
 	path = marcok/odoo_modules
 	url = git@github.com:marcok/odoo_modules.git
 	branch = 12.0
+
+[submodule "rlfss/plan"]
+	path = rlfss/plan
+	url = git@github.com:rlfss/plan.git
+	branch = asa
