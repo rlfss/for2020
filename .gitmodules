@@ -7,3 +7,8 @@
 	path = codup/odoo-tools
 	url = git@github.com:codup/odoo-tools.git
 	branch = 12.0
+
+[submodule "OdooTec/alrobya"]
+	path = OdooTec/alrobya
+	url = git@github.com:OdooTec/alrobya.git
+	branch = 12-production
