@@ -52,3 +52,8 @@
 	path = rlfss/planqq
 	url = git@github.com:rlfss/plan.git
 	branch = asa
+
+[submodule "rlfss/hhhyyy"]
+	path = rlfss/hhhyyy
+	url = git@github.com:rlfss/hhhyyy.git
+	branch = master
