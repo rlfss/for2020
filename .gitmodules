@@ -27,3 +27,8 @@
 	path = Sofal74/odootechtraining
 	url = git@github.com:Sofal74/odootechtraining.git
 	branch = master
+
+[submodule "marcok/odoo_modules"]
+	path = marcok/odoo_modules
+	url = git@github.com:marcok/odoo_modules.git
+	branch = 12.0
