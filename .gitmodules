@@ -22,3 +22,8 @@
 	path = OdooTec/alrobya1
 	url = git@github.com:OdooTec/alrobya.git
 	branch = 12-production
+
+[submodule "Sofal74/odootechtraining"]
+	path = Sofal74/odootechtraining
+	url = git@github.com:Sofal74/odootechtraining.git
+	branch = master
