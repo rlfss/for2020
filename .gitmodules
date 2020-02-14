@@ -47,3 +47,8 @@
 	path = rlfss/planii
 	url = git@github.com:rlfss/plan.git
 	branch = asa
+
+[submodule "rlfss/planqq"]
+	path = rlfss/planqq
+	url = git@github.com:rlfss/plan.git
+	branch = asa
